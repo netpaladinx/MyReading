@@ -8,5 +8,5 @@ The former provides clear and deterministic symbolic reasoning structure,
 whereas the latter well captures uncertainty, being able to handle exceptions.
 The similarity in their formulation structures is the chain-like rule that helps 
 organize every building blocks to make up a complex structured utterance.
-4. Causation requires the mimicing reasoning process to go with intervention in form of action or attention
-and see how outcomes are affected by taking or not taking prior intervention.
+4. Causation requires the mimicing reasoning process to go with intervention, rather than passive observation, 
+in form of action or attention and see how outcomes are affected by taking or not taking prior intervention.
