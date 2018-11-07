@@ -7,4 +7,4 @@ and probability language in term of probabilistic inference.
 The former provides clear and deterministic reasoning structure,
 whereas the latter well captures uncertainty, being able to handle exceptions.
 The similarity in their formulation structures is the chain-like rule that helps 
-organize every building blocks to make up a complex structured system.
+organize every building blocks to make up a complex structured utterance.
