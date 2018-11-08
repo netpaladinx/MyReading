@@ -11,4 +11,4 @@ organize every building blocks to make up a complex structured utterance.
 4. Causation requires the mimicking reasoning process to go with intervention, rather than passive observation, 
 in form of action or attention in the real or counterfactual world and 
 see how outcomes are affected by taking or not taking prior intervention.
-5. Attention is a mental action taken in the imagination world.
+5. Attention is a mental action taken in the imagination world, playing an important role in credit assignment.
